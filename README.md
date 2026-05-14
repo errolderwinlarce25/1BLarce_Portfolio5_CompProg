@@ -1,1 +1,1 @@
-# 1BLarce_Portfolio5_CompProg
+My name is Errol Derwin G. Larce from BSChE 1B. This is my Portfolio #5 in the subject: BES 10A - Computer Fundamentals and Programming. This uses string declaration, iterations, and loops to determine the average molar mass of a given multi-component mixture in a process stream.
